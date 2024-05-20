@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s26635\\Downloads\\lab09\\lab09\\lab09.csproj": {}
+    "C:\\Users\\s26635\\Desktop\\New folder\\lab09\\lab09\\lab09.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s26635\\Downloads\\lab09\\lab09\\lab09.csproj": {
+    "C:\\Users\\s26635\\Desktop\\New folder\\lab09\\lab09\\lab09.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s26635\\Downloads\\lab09\\lab09\\lab09.csproj",
+        "projectUniqueName": "C:\\Users\\s26635\\Desktop\\New folder\\lab09\\lab09\\lab09.csproj",
         "projectName": "lab09",
-        "projectPath": "C:\\Users\\s26635\\Downloads\\lab09\\lab09\\lab09.csproj",
+        "projectPath": "C:\\Users\\s26635\\Desktop\\New folder\\lab09\\lab09\\lab09.csproj",
         "packagesPath": "C:\\Users\\s26635\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s26635\\Downloads\\lab09\\lab09\\obj\\",
+        "outputPath": "C:\\Users\\s26635\\Desktop\\New folder\\lab09\\lab09\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s26635\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -50,6 +50,16 @@
               "version": "[8.0.2, )"
             },
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.5, )"
             },
